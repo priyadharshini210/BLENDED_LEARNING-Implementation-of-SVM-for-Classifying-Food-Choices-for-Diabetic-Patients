@@ -34,8 +34,8 @@ Assess the model’s accuracy and effectiveness on the testing set using perform
 ```
 /*
 Program to implement SVM for food classification for diabetic patients.
-Developed by: Kessav Deepak Sridharan
-RegisterNumber:  212223230104
+Developed by: Priyadharshini.P
+RegisterNumber:  212223240128
 */
 # Import necessary libraries
 import pandas as pd
